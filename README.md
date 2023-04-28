@@ -2,11 +2,15 @@
 
 ## Programming
 
-- [My repos](https://github.com/mrzli/repos).
+- [My github repos](https://github.com/mrzli/repos).
 
 ### Resources
 
 - [tailwindcss](https://tailwindcss.com/) - CSS framework. [Utility classes](https://tailwindcss.com/docs/). [Components](https://tailwindui.com/components) (requires login).
+
+### Repositories / Markets
+
+- [VS Code Marketplace](https://marketplace.visualstudio.com/vscode) - VS Code extensions marketplace.
 
 ---
 
