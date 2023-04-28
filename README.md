@@ -38,6 +38,8 @@
 - [Al Brooks Basic Course](https://www.daytradinginsight.com/course/best-trades/) - (requires login).
 - [Al Brooks Advanced Course](https://www.brookstradingcourse.com/td365-advanced-course/) - (requires login).
 
+---
+
 ## Other
 
 ### Services
