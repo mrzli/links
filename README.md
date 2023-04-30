@@ -6,7 +6,13 @@
 
 ### Resources
 
+#### Development
+
 - [tailwindcss](https://tailwindcss.com/) - CSS framework. [Utility classes](https://tailwindcss.com/docs/). [Components](https://tailwindui.com/components) (requires login).
+
+#### Deployment / Publishing
+
+- [Common Changelog](https://common-changelog.org/) - Guide on how to write changelogs.
 
 ### Repositories / Markets
 
