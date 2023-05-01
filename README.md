@@ -50,3 +50,4 @@
 ### Services
 
 - [ChatGPT](https://chat.openai.com/) - ChatGPT (requires login).
+- [namecheap](https://www.namecheap.com/) - Domain registrar.
