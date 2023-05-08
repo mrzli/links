@@ -47,6 +47,10 @@
 
 ## Other
 
+### Life
+
+- [habits](https://github.com/mrzli/habits) - Repository containing documents related to my habits.
+
 ### Services
 
 - [ChatGPT](https://chat.openai.com/) - ChatGPT (requires login).
